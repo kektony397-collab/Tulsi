@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Tulsi Apt Manager",
+  "description": "Android-style Apartment Maintenance System with IndexedDB storage, Receipt Printing, and Legal Notice generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
